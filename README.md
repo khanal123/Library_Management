@@ -1,5 +1,5 @@
 __Installations:__
-**pip install django rest_framework**
+**pip install djangorestframework**
 **pip install django_filters**
 **pip install python-decouple  //Separating the settings from the code**
 **pip install django mysqlclient //For using the mysql database with django**
